@@ -8,7 +8,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 
-public class Test1 {
+public class Loginpage {
 	    @Test
 	    public void checkLoginPageheadind2() {
 		System.out.println("TC02 : CheckLoginPageheadind2 ");

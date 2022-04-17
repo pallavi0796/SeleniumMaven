@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-16T23:32:56 IST" name="Suite" finished-at="2022-04-16T23:33:05 IST" duration-ms="8791">
+  <suite name="Suite" duration-ms="4871" started-at="2022-04-17T08:32:42 IST" finished-at="2022-04-17T08:32:47 IST">
     <groups>
     </groups>
-    <test started-at="2022-04-16T23:32:56 IST" name="Test" finished-at="2022-04-16T23:33:05 IST" duration-ms="8791">
-      <class name="selenium.Test1">
-        <test-method signature="checkLoginPageheadind2()[pri:0, instance:selenium.Test1@4d910fd6]" started-at="2022-04-16T23:32:56 IST" name="checkLoginPageheadind2" finished-at="2022-04-16T23:33:05 IST" duration-ms="8724" status="PASS">
+    <test name="Test" duration-ms="4871" started-at="2022-04-17T08:32:42 IST" finished-at="2022-04-17T08:32:47 IST">
+      <class name="selenium.Loginpage">
+        <test-method status="PASS" signature="checkLoginPageheadind2()[pri:0, instance:selenium.Loginpage@4d95d2a2]" name="checkLoginPageheadind2" duration-ms="4801" started-at="2022-04-17T08:32:42 IST" finished-at="2022-04-17T08:32:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLoginPageheadind2 -->
-      </class> <!-- selenium.Test1 -->
+      </class> <!-- selenium.Loginpage -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
